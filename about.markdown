@@ -4,15 +4,11 @@ title: Om Mig
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+Mit navn er Michael. Jeg er dansker, der bor i Sverige, mens jeg studerer Datamatiker online hos UCL Odense.
+Jeg bruger det meste af min tid på at studere samt på familien. Til tider bliver der også spillet lidt online med vennerne.
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
+Denne hjemmeside er lavet til at dokumentere mit fjerde semester samt de emner, jeg har lært i løbet af semesteret.
+Projektet dette semester har handlet om at udvikle et program, der kan tjekke URL'er for skadeligt indhold.
 
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
-
-
-[jekyll-organization]: https://github.com/jekyll
+Ydermere vil jeg bruge denne side til at beskrive min læring i forhold til eventuelle praktikpladser på mit femte semester.
+Du er velkommen til at kontakte mig; diverse kontaktmuligheder findes i bunden af siden.
