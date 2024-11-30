@@ -7,7 +7,7 @@ permalink: /itSecurity/
 ### Læringsmål for IT-sikkerhed med fokus på OpenIddict
 
 #### **Viden – Den studerende har viden om:**
--Kan forklare hvordan OpenIddict implementerer OAuth2 og OpenId Connect (OIDC) i ASP.NET Core.
+- Kan forklare hvordan OpenIddict implementerer OAuth2 og OpenId Connect (OIDC) i ASP.NET Core.
 - forståelse for forskellige komponenter i OpenIddict, herunder tokenhåndtering, klientregistrering og autorisationsserverens rolle.
   -Kan redegøre for forskellen mellem autentifikation og autorisation.
 - Vide om hvordan scopes bruges til at definere og begrænse adgang til API-ressourcer.
