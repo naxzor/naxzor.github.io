@@ -5,9 +5,8 @@ author: Michael Mayntz Petersen
 
 
 navbar-links:
-  Hjem: "index"
+  Blog: "index"
   Om Mig: "about"
-  Blog: "blog"
   Læringsmål: 
     - Generalle Læringsmål: "generalLearningObjectives"
     - Microservice: "microservice"
