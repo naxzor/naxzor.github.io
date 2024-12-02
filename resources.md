@@ -30,7 +30,7 @@ permalink: /resources/
 - Dokumentation til [OpenId-Connect]
 
 ### JWT.IO
-- Link til [jwt.io]
+- Link til [jwt].io
 
 ### Tredjeparts API'er
 - Vi har brugt [VirusTotal]
@@ -47,10 +47,10 @@ permalink: /resources/
 [OpenIddict]: https://documentation.openiddict.com/
 [OpenId-Connect]: https://openid.net/developers/how-connect-works/
 [OAuth2]: https://datatracker.ietf.org/doc/html/rfc6749
-[Client Credentials Flow & AuthorizationCodeFlow]:(https://documentation.openiddict.com/guides/choosing-the-right-flow)
-[jwt.io]:(https://jwt.io/)
+[Client Credentials Flow & AuthorizationCodeFlow]:https://documentation.openiddict.com/guides/choosing-the-right-flow
+[jwt]:https://jwt.io/
 [Microservice]: https://learn.microsoft.com/en-us/azure/architecture/guide/architecture-styles/microservices
 [Microservice-Design]: https://www.salesforce.com/blog/microservice-design-principles/
-[VirusTotal]:(https://www.virustotal.com)
-[Google-Safe Browsing]:(https://developers.google.com/safe-browsing)
-[Sage State Machine Activities]:(https://masstransit.io/documentation/configuration/sagas/custom)
+[VirusTotal]:https://www.virustotal.com
+[Google-Safe Browsing]:https://developers.google.com/safe-browsing
+[Sage State Machine Activities]:https://masstransit.io/documentation/configuration/sagas/custom
